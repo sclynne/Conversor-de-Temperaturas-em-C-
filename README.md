@@ -1,11 +1,4 @@
 # Conversor-de-Temperaturas-em-C-
-Programa em linguagem C que converte temperaturas nas seguintes :
-Celsius → Fahrenheit ,
-Celsius → Kelvin ,
-Fahrenheit → Celsius ,
-Fahrenheit → Kelvin ,
-Kelvin → Celsius ,
-Kelvin → Fahrenheit.
 
 Este repositório apresenta a atividade acadêmica **Conversor de Temperaturas em C**, desenvolvida para aplicar conceitos fundamentais da linguagem C por meio de conversões entre **Celsius, Fahrenheit e Kelvin**.
 O programa funciona de forma simples e interativa: o usuário escolhe no menu do terminal a conversão desejada e informa a temperatura.

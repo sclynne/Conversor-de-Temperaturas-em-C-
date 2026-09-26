@@ -1,6 +1,6 @@
 # Conversor-de-Temperaturas-em-C-
 Programa em linguagem C que converte temperaturas. 
-Celsius → Fahrenheit
+*Celsius → Fahrenheit*
 Celsius → Kelvin
 Fahrenheit → Celsius
 Fahrenheit → Kelvin

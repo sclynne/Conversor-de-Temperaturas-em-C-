@@ -6,3 +6,15 @@ O programa funciona de forma simples e interativa: o usuário escolhe no menu do
 Para executar, basta compilar o código com um compilador C, como o GCC (`gcc conversor.c -o conversor`), e executar o programa (`./conversor`).
 
 Também é possível exeutar no GDB ONLINE pelo site https://www.onlinegdb.com/, basta entrar, selecionar a linguagem C e rodar em "run".
+
+
+## Arquivo .gitignore
+
+O projeto utiliza um arquivo `.gitignore` para
+evitar o envio de arquivos executáveis,
+temporários e de compilação ao GitHub.
+
+O código-fonte `conversor.c` é mantido no
+repositório para permitir sua compilação
+e execução.
+
